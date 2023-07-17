@@ -1,0 +1,1 @@
+export const WORDPRESS_URL = "https://leantv.info/graphql"
